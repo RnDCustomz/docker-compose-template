@@ -77,7 +77,7 @@
 			"name": "Seanime",
 			"desc": "Anime streaming service.",
 			"href": "https://seanime.yourdomain.com",
-			"icon": "https://raw.githubusercontent.com/5rahim/seanime/refs/heads/main/seanime-web/public/logo.png"
+			"icon": "https://raw.githubusercontent.com/5rahim/seanime/refs/heads/main/docs/images/seanime-logo.png"
 		},
 		{
 			"name": "AIOStreams",
