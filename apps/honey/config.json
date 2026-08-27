@@ -50,6 +50,12 @@
 			"icon": "https://raw.githubusercontent.com/louislam/uptime-kuma/refs/heads/master/public/favicon.ico"
 		},
 		{
+			"name": "Beszel",
+			"desc": "Self-hosted hardware monitor.",
+			"href": "https://beszel.yourdomain.com",
+			"icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/beszel.svg"
+		},
+		{
 			"name": "Status Page",
 			"desc": "Status page for all services.",
 			"href": "https://status.yourdomain.com",
